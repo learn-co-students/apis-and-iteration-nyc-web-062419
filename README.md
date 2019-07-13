@@ -463,7 +463,7 @@ This array of hashes is what gets passed to the `print_movies` method. This is t
 
 ### `lib/command_line_interface.rb`
 
-This file is pretty basic. Define a `welcome` method that `puts` out a friendly greeting. Then, define the `get_character_from_user` method to ask the user for a characters name and capture that input. The return value of this method should be the captured user's input.
+<!-- This file is pretty basic. Define a `welcome` method that `puts` out a friendly greeting. Then, define the `get_character_from_user` method to ask the user for a characters name and capture that input. The return value of this method should be the captured user's input. -->
 
 ## Bonus
 
